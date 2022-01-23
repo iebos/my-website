@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: i.e.bostanci@uu.nl
 - icon: github
   icon_pack: fab
   link: https://github.com/inanimate36
