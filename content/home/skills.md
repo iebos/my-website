@@ -25,9 +25,13 @@ feature:
   icon_pack: fab
   name: Python
 - description: 100%
-  icon: brain
-  icon_pack: fas
-  name: A hungry mind 
+  icon: ":nerd_face:"
+  icon_pack: emoji
+  name: Python
+#- description: 100%
+#  icon: brain
+#  icon_pack: fas
+#  name: A hungry mind 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
