@@ -49,9 +49,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://github.com/inanimate36/my_cv/raw/main/Inan_Bostanci_Resume.pdf/
+#- icon: cv
+#  icon_pack: ai
+#  link: https://github.com/inanimate36/my_cv/raw/main/Inan_Bostanci_Resume.pdf/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "i.e.bostanci@uu.nl"
