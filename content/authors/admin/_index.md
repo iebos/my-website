@@ -49,12 +49,14 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: https://github.com/inanimate36/my_cv/raw/main/Inan_Bostanci_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "i.e.bostanci@uu.nl"
+
+#{{< icon name="fa-paperclip" pack="fas" >}} Take a look at my {{< staticref "uploads/demo_resume.pdf" #"newtab" >}}resumé{{< /staticref >}}.
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -65,5 +67,3 @@ I am a second year student of the master's program "Methodology & Statistics in 
 Currently, I am interning and writing my thesis at Statistics Netherlands (CBS). In this research project, traffic loop sensor data is utilised to improve models that estimate travel behavior. The thesis is supervised by Dr. Peter Lugtig and Yvonne Gootzen. 
 
 {{< icon name="fa-paperclip" pack="fas" >}} Take a look at my [resumé](https://github.com/inanimate36/my_cv/raw/main/Inan_Bostanci_Resume.pdf).
-
-#{{< icon name="fa-paperclip" pack="fas" >}} Take a look at my {{< staticref "uploads/demo_resume.pdf" #"newtab" >}}resumé{{< /staticref >}}.
