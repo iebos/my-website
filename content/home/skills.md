@@ -24,7 +24,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
--description: 100%
+- description: 100%
   icon: brain
   icon_pack: fas
   name: A hungry mind 
