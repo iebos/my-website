@@ -66,4 +66,5 @@ I am a second year student of the master's program "Methodology & Statistics in 
 
 Currently, I am interning and writing my thesis at Statistics Netherlands (CBS). In this research project, traffic loop sensor data is utilised to improve models that estimate travel behavior. The thesis is supervised by Dr. Peter Lugtig and Yvonne Gootzen. 
 
-{{< icon name="fa-paperclip" pack="fas" >}} Take a look at my [resumé](https://github.com/inanimate36/my_cv/raw/main/Inan_Bostanci_Resume.pdf).
+#{{< icon name="fa-paperclip" pack="fas" >}} 
+Take a look at my [resumé](https://github.com/inanimate36/my_cv/raw/main/Inan_Bostanci_Resume.pdf).
