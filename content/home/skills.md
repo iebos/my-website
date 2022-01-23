@@ -27,7 +27,7 @@ feature:
 - description: 100%
   icon: ":nerd_face:"
   icon_pack: emoji
-  name: Python
+  name: A hungry mind 
 #- description: 100%
 #  icon: brain
 #  icon_pack: fas
