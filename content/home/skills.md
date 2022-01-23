@@ -24,7 +24,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-
+-description: 100%
+  icon: :monocle_face:
+  icon_pack: emoji
+  name: A hungry mind 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
