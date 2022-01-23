@@ -60,9 +60,9 @@ email: "i.e.bostanci@uu.nl"
 highlight_name: true
 ---
 
-I am a second year student of the master's program "Methodology & Statistics in the Behavioral, Biomedical and Social Sciences" at Utrecht University. While working on my bachelor's degree in Sociology, I became enthusiastic about the potential of new data sources in social and epidemiological research.
+I am a second year student of the master's program ["Methodology & Statistics in the Behavioral, Biomedical and Social Sciences"](https://www.uu.nl/masters/en/methodology-and-statistics-behavioural-biomedical-and-social-sciences) at Utrecht University. While working on my bachelor's degree in Sociology, I became enthusiastic about the potential of new data sources in social and epidemiological research.
 
-Currently, I am interning and writing my thesis at Statistics Netherlands (CBS). In this research project, traffic loop sensor data is utilised to improve models that estimate travel behavior. The thesis is supervised by Dr. Peter Lugtig and Yvonne Gootzen. 
+Currently, I am interning and writing my thesis at Statistics Netherlands (CBS). In this research project, we utilise traffic loop sensor data to improve models that estimate travel behavior. The thesis is supervised by Dr. Peter Lugtig and Yvonne Gootzen. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Inan_Bostanci_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
