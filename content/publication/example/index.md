@@ -47,9 +47,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
- links:
- - name:Link
-   url: https://www.taylorfrancis.com/books/mono/10.4324/9780429289453/european-solidarity-times-crisis-j%C3%BCrgen-gerhards-holger-lengfeld-zs%C3%B3fia-ign%C3%A1cz-florian-kley-maximilian-priem
+#links:
+# - name:Link
+#   url: https://www.taylorfrancis.com/books/mono/10.4324/9780429289453/european-solidarity-times-crisis-j%C3%BCrgen-gerhards-holger-lengfeld-zs%C3%B3fia-ign%C3%A1cz-florian-kley-maximilian-priem
 
 url_pdf: ''
 url_code: ''
