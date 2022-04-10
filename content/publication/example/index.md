@@ -43,9 +43,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-#links:
-# - name:Link
-#   url: https://www.taylorfrancis.com/books/mono/10.4324/9780429289453/european-solidarity-times-crisis-j%C3%BCrgen-gerhards-holger-lengfeld-zs%C3%B3fia-ign%C3%A1cz-florian-kley-maximilian-priem
+links:
+ - name:Link
+   url: https://www.taylorfrancis.com/books/mono/10.4324/9780429289453/european-solidarity-times-crisis-j%C3%BCrgen-gerhards-holger-lengfeld-zs%C3%B3fia-ign%C3%A1cz-florian-kley-maximilian-priem
 
 url_pdf: ''
 url_code: ''
@@ -78,12 +78,12 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
