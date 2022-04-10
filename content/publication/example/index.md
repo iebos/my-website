@@ -42,10 +42,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: false
 
-# Custom links (uncomment lines below)
+# Custom links (uncomment lines below) (Page does not deploy if I do this)
 links:
- - name:Link
-   url: https://www.taylorfrancis.com/books/mono/10.4324/9780429289453/european-solidarity-times-crisis
+# - name:Link
+#   url: https://www.taylorfrancis.com/books/mono/10.4324/9780429289453/european-solidarity-times-crisis
 
 url_pdf: ''
 url_code: ''
