@@ -14,9 +14,9 @@ subtitle: ''
 
 content:
   # Filter on criteria
-  filters:
-    folders:
-      - publication
+#  filters:
+#    folders:
+#      - publication
     tag: ''
     category: ''
     publication_type: ''
@@ -36,7 +36,3 @@ design:
   columns: '2'
 ---
 
-# Uncomment to include a filter option
-# {{% callout note %}}
-# Quickly discover relevant content by [filtering publications](./publication/).
-# {{% /callout %}}
