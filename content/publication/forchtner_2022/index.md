@@ -1,23 +1,20 @@
 ---
-title: "European Solidarity in Times of Crisis. Insights from a Thirteen-Country Survey"
+title: " Scepticisms and beyond? A comprehensive portrait of climate change communication by the far right in the European Parliament"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jürgen Gerhards
-- Holger Lengfeld,
-- Zsofia S. Ignacz
-- Florian K. Kley
-- Maximilian Priem
+- Bernhard Forchtner
+- Balša Lubarda
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2019-07-12T00:00:00Z"
-doi: "https://doi.org/10.4324/9780429289453"
+date: "2022-03-25T00:00:00Z"
+doi: "https://doi.org/10.1080/09644016.2022.2048556"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -26,13 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-abstract: The euro crisis, several sovereign debt crises, the Great Recession, the refugee crisis, and Brexit have all challenged Europeans’ willingness to show solidarity with other European citizens and member states of the European Union. European Solidarity in Times of Crisis provides a clear theoretical framework to understand European solidarity for the first time. It offers a systematic empirical approach to determine the strength and causes of European solidarity. The authors distinguish between four domains of solidarity and test a set of theoretically derived criteria with a unique dataset to investigate European solidarity. Based on a survey conducted in thirteen EU member states in 2016, the empirical analysis leads to some unanticipated results. Europeans display a notably higher degree of solidarity than many politicians and social scientists have presumed so far. This especially applies to the support of people in need (welfare solidarity) and the reduction of territorial disparities between rich and poor EU countries (territorial solidarity), but also to the domain of fiscal solidarity (financial support of indebted EU countries). This optimistic view is less true for the domain of refugee solidarity. While citizens of western and southern EU countries accept the accommodation of refugees and their allocation between European countries, the majority of people in eastern European countries do not share this point of view. The book will appeal to students and scholars in fields such as comparative sociology, political science, social policy and migration research, and European studies. It is also relevant to a non-academic audience interested in the development of the European project.
+abstract: Amid the existing scientific consensus regarding anthropogenic climate change (ACC), research on political ideologies and climate change indicates varying degrees of scepticism amongst conservatives and, especially, the far right, the latter ranging from the anti-liberal radical right to the anti-democratic extreme right. We contribute to this emerging literature by drawing a comprehensive portrait of far-right articulations of climate change to date through an analysis of contributions to plenary debates and explanations of vote delivered by far-right Members of the European Parliament (parliamentary terms 6–8, 2004–19). We illustrate the need for a differentiated understanding of far-right climate-change communication, as most arguments are sceptical not towards the existence of ACC, but the ways in which it is addressed. Furthermore, our analysis indicates that extreme-right actors are slightly more ‘climate-friendly’ than radical-right ones. Therefore, this article contributes to our knowledge of and analytical framework for examining far-right climate-change communication.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. #Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed #ex sollicitudin condimentum.
@@ -45,7 +42,7 @@ featured: false
 # Custom links (uncomment lines below) (Page does not deploy if I do this)
 links:
 # - name:Link
-#   url: https://www.taylorfrancis.com/books/mono/10.4324/9780429289453/european-solidarity-times-crisis
+#   url: https://www.tandfonline.com/doi/full/10.1080/09644016.2022.2048556
 
 url_pdf: ''
 url_code: ''
@@ -58,10 +55,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
