@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: MSc in Methodology & Statistics
+    institution: Utrecht University
+    year: 2022
   - course: BA in Sociology
     institution: Leipzig University
     year: 2020
