@@ -1,4 +1,5 @@
 ---
+
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -16,15 +17,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 80%
+- description: 90%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 40%
+- description: 70%
   icon: python
   icon_pack: fab
   name: Python
-
+- description: 100%
+  icon: ":nerd_face:"
+  icon_pack: emoji
+  name: A hungry mind 
+#- description: 100%
+#  icon: brain
+#  icon_pack: fas
+#  name: A hungry mind 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

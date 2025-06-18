@@ -1,3 +1,8 @@
+This is my personal website that you can access on inan-bostanci.netlify.app
+
+Below is the standard readme of the hugo academic theme.
+
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
