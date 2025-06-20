@@ -21,10 +21,18 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 70%
+- description: 90%
   icon: python
   icon_pack: fab
   name: Python
+- description: 10%
+  icon: java
+  icon_pack: fab
+  name: Java
+- description: 10%
+  icon: julia
+  icon_pack: fab
+  name: Julia
 - description: 100%
   icon: ":nerd_face:"
   icon_pack: emoji

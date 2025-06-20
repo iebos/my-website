@@ -6,14 +6,14 @@ title: Inan Bostanci
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Utrecht University
-  url: "https://www.uu.nl/en/"
-- name: Statistics Netherlands
-  url: "https://www.cbs.nl/en-gb/"
+- name: Zuse Institute Berlin
+  url: "https://www.zib.de/"
+- name: Free University of Berlin
+  url: "https://www.fu-berlin.de/en/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm enthusiastic about improving existing research fields by implementing big data.
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:i.e.bostanci@uu.nl
+  link: mailto:ie.bostanci@gmail.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/inan-bostanci/
@@ -57,15 +57,19 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "i.e.bostanci@uu.nl"
+email: "ie.bostanci[at]gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
+I am a researcher and PhD student at [Zuse Institue Berlin, Department for Visual and Data-centric Computing, Bioinformatics in Medicine group](). 
+
+My research interests are Machine learning for health applications, hybrid modeling, multimodal sensor data integration, time series analysis, agent-based simulation, data-driven policy modeling.
+Viz, bio group
 I recently graduated the master's program [Methodology & Statistics in the Behavioral, Biomedical and Social Sciences](https://www.uu.nl/masters/en/methodology-and-statistics-behavioural-biomedical-and-social-sciences) at Utrecht University. While working on my bachelor's degree in Sociology, I became enthusiastic about the potential of novel data sources in social and epidemiological research.
 
 Until recently, I interned and wrote my thesis at Statistics Netherlands (CBS). In this research project, we utilised traffic loop sensor data to improve models that estimate traffic on a nationwide scale. The thesis was supervised by Dr. [Peter Lugtig](https://www.uu.nl/medewerkers/plugtig) and [Yvonne Gootzen](https://www.cbs.nl/nl-nl/over-ons/werken-bij/_testimonials/yvonne-gootzen-statistisch-onderzoeker). 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Inan_Bostanci_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
