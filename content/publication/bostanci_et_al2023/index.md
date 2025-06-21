@@ -27,7 +27,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Wowchemy Conference*
+publication: In CBS Discussion Papers
 #publication_short: In *ICW*
 
 abstract: Traffic estimation is an important area in official statistics and is used by policymakers in their decision-making process for regional planning. This paper describes a framework that relies on combining large amounts of data from traffic loop sensors with administrative data of the entire population of the Netherlands to estimate traffic intensities during rush-hour for all major roads in the Netherlands. Multiple calibration models are developed and compared, and although the models do suggest that traffic counts are sometimes over- or underestimated in some regions, the models overall perform well.
@@ -45,7 +45,7 @@ links:
 # - name:Link
 #   url: https://www.tandfonline.com/doi/full/10.1080/09644016.2022.2048556
 
-url_pdf: ''
+url_pdf: 'https://www.cbs.nl/en-gb/background/2023/11/validation-and-calibration-of-traffic-estimations'
 url_code: 'https://github.com/iebos/dacimob'
 url_dataset: ''
 url_poster: ''
