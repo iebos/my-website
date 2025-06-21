@@ -30,8 +30,8 @@ feature:
   icon_pack: fab
   name: Java
 - description: 10%
-  icon: julia
-  icon_pack: fab
+  icon: code
+  icon_pack: fas
   name: Julia
 - description: 100%
   icon: ":nerd_face:"
