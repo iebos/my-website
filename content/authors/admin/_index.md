@@ -88,4 +88,4 @@ I recently graduated the master's program [Methodology & Statistics in the Behav
 Until recently, I interned and wrote my thesis at Statistics Netherlands (CBS). In this research project, we utilised traffic loop sensor data to improve models that estimate traffic on a nationwide scale. The thesis was supervised by Dr. [Peter Lugtig](https://www.uu.nl/medewerkers/plugtig) and [Yvonne Gootzen](https://www.cbs.nl/nl-nl/over-ons/werken-bij/_testimonials/yvonne-gootzen-statistisch-onderzoeker).  -->
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Inan_Bostanci_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Inan_Bostanci_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
