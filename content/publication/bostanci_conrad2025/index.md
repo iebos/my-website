@@ -44,8 +44,8 @@ links:
 # - name:Link
 #   url: https://www.tandfonline.com/doi/full/10.1080/09644016.2022.2048556
 
-url_pdf: 'http://jasss.soc.surrey.ac.uk/28/1/5.html'
-url_code: 'https://git.zib.de/ibostanc/hybrid_abm_ode'
+url_pdf: #'http://jasss.soc.surrey.ac.uk/28/1/5.html'
+url_code: #'https://git.zib.de/ibostanc/hybrid_abm_ode'
 url_dataset: ''
 url_poster: ''
 url_project: ''
