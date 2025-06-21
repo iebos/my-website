@@ -20,8 +20,14 @@ bio: I'm enthusiastic about improving existing research fields by implementing b
 
 # Interests to show in About widget
 interests:
-- Big Data
-- COVID Research
+- Complex Systems
+- Infectious Disease Modeling
+- Agent-Based Models
+- Hybrid Simulation
+- Data Linkage
+- Real-World Sensor Data
+- Population Modeling
+- Time Series Analysis
 - Social Network Analysis
 
 # Education to show in About widget
