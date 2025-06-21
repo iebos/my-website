@@ -75,7 +75,9 @@ email: "ie.bostanci[at]gmail.com"
 highlight_name: true
 ---
 
-I am a PhD student exploring how we can better understand complex systems with data-driven models that help translate mobility, weather, and health data into actionable insights. My work focuses on developing hybrid modeling frameworks that couple agent-based models with compartmental ODE models for scalable and efficient infectious disease simulation. I am particularly interested in modeling the interaction between individual behavior, mobility, and interventions. Having first explored these relationships from a social science perspective, I became increasingly drawn to computational modeling in epidemiology, public health, and population modeling as a way to better understand complex health dynamics.
+I am a PhD student exploring how we can better understand complex systems with data-driven models that help translate mobility, weather, and health data into actionable insights. My work focuses on developing hybrid modeling frameworks that couple agent-based models with compartmental ODE models for scalable and efficient infectious disease simulation. 
+
+I am particularly interested in modeling the interaction between individual behavior, mobility, and interventions. Having first explored these relationships from a social science perspective, I became increasingly drawn to computational modeling in epidemiology, public health, and population modeling as a way to better understand complex health dynamics.
 
 <!-- I am a researcher and PhD student at [Zuse Institue Berlin, Department for Visual and Data-centric Computing, Bioinformatics in Medicine group](). 
 
